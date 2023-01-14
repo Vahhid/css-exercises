@@ -11,3 +11,9 @@ list of fonts containing `Helvetica` and `Times New Roman`, with `sans-serif` as
 .second{
 	background-color:yellow;
 }
+.first, .second{
+	font-size:28px;
+	font-family:sans-serif`;
+	font-family:times-new-roman;
+	font-family:Helvetica;
+}
