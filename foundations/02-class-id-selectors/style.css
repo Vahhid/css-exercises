@@ -9,3 +9,10 @@ and a list of fonts containing `Verdana` and `DejaVu Sans` with `sans-serif` as 
 	font-family:sans-serif`;
 	
 }
+/* 
+blue text and a font size of 36px
+*/
+#one{
+	color:blue;
+	font-size:36px;	
+}
