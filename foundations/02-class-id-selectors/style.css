@@ -1,0 +1,11 @@
+/*
+All odd numbered elements**: a light red/pink background, 
+and a list of fonts containing `Verdana` and `DejaVu Sans` with `sans-serif` as a fallback
+*/
+.odd{
+	background-color:pink;
+	font-family:Verdana;
+	font-family:DejaVu;
+	font-family:sans-serif`;
+	
+}
